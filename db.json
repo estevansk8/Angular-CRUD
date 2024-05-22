@@ -1,0 +1,16 @@
+{
+    "players":[
+        {
+            "id":1,
+            "name": "Cassio",
+            "club": "Corinthians",
+            "position": "Goleiro"
+        },
+        {
+            "id":2,
+            "name": "Fabio",
+            "club": "Cruzeiro",
+            "position": "Goleiro"
+        }
+    ]
+}
