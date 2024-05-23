@@ -12,5 +12,9 @@ export class PlayerService {
   getAll(){
     return this.httpClient.get<Player[]>('http://localhost:3000/players');
   }
+
+  create(data: Player){
+    return this.httpClient.post('http://localhost:3000/players', data);
+  }
   
 }
