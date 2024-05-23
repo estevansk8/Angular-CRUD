@@ -1,28 +1,22 @@
 {
   "players": [
     {
-      "id": "1",
-      "name": "Cassio",
-      "club": "Corinthians",
-      "position": "Goleiro"
-    },
-    {
-      "id": "2",
-      "name": "Fabio",
-      "club": "Cruzeiro",
-      "position": "Goleiro"
-    },
-    {
-      "id": 0,
+      "id": 1,
       "name": "Estevan",
       "position": " Atacante",
       "club": "Corinthians"
     },
     {
-      "id": 0,
+      "id": 2,
       "name": "Neymar",
       "position": " Atacante",
       "club": "AL hilal"
+    },
+    {
+      "id": 3,
+      "name": "mauriciao",
+      "position": " Atacante",
+      "club": "Corinthians"
     }
   ]
 }

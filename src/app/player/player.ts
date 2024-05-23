@@ -4,3 +4,4 @@ export interface Player {
     club: string;
     position: string
 }
+
